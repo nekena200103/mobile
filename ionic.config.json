@@ -1,0 +1,7 @@
+{
+  "name": "siterencontre",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

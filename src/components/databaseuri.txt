@@ -1,0 +1,1 @@
+mongodb+srv://dev:123@tptransversal.ws6g6vn.mongodb.net/?retryWrites=true&w=majority

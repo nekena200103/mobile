@@ -1,0 +1,23 @@
+.flex-center{
+    position: absolute;
+    top: 5%;
+    left: 20%;
+    width: 60%;
+    height:90%;
+   
+    --color: white;
+    --primary: white;
+   
+    border-radius: 16px !important;
+}
+.loginicon{
+    width: 60%;
+    height: 40%;
+    left: 20%;
+    position: relative;
+    margin-top: 10%;
+    
+}
+.ampidinina{
+    margin-top: 20%;
+}
